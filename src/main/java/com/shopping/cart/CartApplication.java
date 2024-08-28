@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CartApplication {
 	// New Cart Application
 	public static void main(String[] args) {
-		System.out.println("Cart Log");
+		System.out.println("First Log");
 		SpringApplication.run(CartApplication.class, args);
 	}
 
